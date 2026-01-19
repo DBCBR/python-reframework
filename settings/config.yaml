@@ -1,0 +1,9 @@
+# Nível e destino do log
+log_level: INFO            # DEBUG, INFO, WARNING, ERROR
+log_file: data/work/run.log
+
+# Diretórios padrão
+input_dir: data/input
+output_dir: data/output
+
+max_retries: 3
