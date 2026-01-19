@@ -14,7 +14,7 @@ Este projeto implementa o padrão REFramework em Python, uma arquitetura robusta
 
 ## 🏗️ Estrutura do Projeto
 
-```
+```text
 python-reframework/
 ├── data/
 │   ├── input/          # Arquivos de entrada
@@ -40,17 +40,19 @@ python-reframework/
 ### Instalação
 
 1. Clone o repositório:
+
 ```bash
 git clone https://github.com/DBCBR/python-reframework.git
 cd python-reframework
 ```
 
-2. Instale as dependências:
+1. Instale as dependências:
+
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Configure o arquivo `settings/config.yaml` conforme necessário
+1. Configure o arquivo `settings/config.yaml` conforme necessário
 
 ### Execução
 
